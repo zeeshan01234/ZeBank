@@ -2,7 +2,7 @@
   "name": "bank_modern_app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://zeeshan01234.github.io/ze-bank"
+  "homepage": "https://zeeshan01234.github.io/ze-bank",
   "type": "module",
   "scripts": {
     "dev": "vite",
